@@ -4,7 +4,7 @@
 ## How to access the Code
 Go to the AfricaStalking Simulator and under ussd section and type
 
-## *384*545454#
+## Dial <code>*384*545454#</code>
   
 
 
